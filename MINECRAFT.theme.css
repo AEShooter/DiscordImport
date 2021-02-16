@@ -1,0 +1,55 @@
+/**
+ * @name Minecraft
+ * @author GORDON FREEMAN#3446
+ * @version 1453
+ * @description A.E.N Sports it's in the Game
+ * @authorId 364059181239631872
+*/
+
+@import url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/base.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+  --background-image: url('https://wallpaperplay.com/walls/full/1/e/c/338361.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: var(--background-image);
+  --popout-modal-blur: 0px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url('https://github.com/AEShooter/DiscordImport/blob/main/minecraft.png?raw=true');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.40;
+  --left-brightness: 0.30; 
+  --middle-brightness: 0.20;
+  --right-brightness: 0.10;
+  --popout-modal-brightness: 0.55;
+  --tint-colour: 20, 20, 20;
+  --tint-brightness: 0.2;
+  --gradient-primary: 18, 63, 13;
+  --gradient-secondary: 0, 116, 15;
+  --gradient-direction: -220deg;
+  --window-padding: 7px;
+  --window-roundness: 20px;
+  --scrollbar-colour: rgba(0, 172, 0, 0.486);
+  --link-colour: #00f40c;
+  --show-gift-gif-buttons: none;
+  --font: 'F77 Minecraft';
+  --update-notice-1: none;
+  --rs-small-spacing: 0px;
+  --rs-large-spacing: 2px;
+  --rs-width: 2px;
+  --rs-avatar-shape: 0%;
+  --rs-online-color: #06dd2a;
+  --rs-idle-color: #015304;
+  --rs-dnd-color: #cc1010;
+  --rs-offline-color: #180101;
+  --rs-streaming-color: #82fc97;
+  --rs-invisible-color: #000000;
+}
